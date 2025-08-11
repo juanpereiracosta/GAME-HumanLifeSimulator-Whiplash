@@ -38,5 +38,5 @@ Whiplash challenges players to:
 - Mood: 60
 - Money: 1200
 - Skill: 85
-## Current Status: 70
+# Current Status: 70
 **********************
