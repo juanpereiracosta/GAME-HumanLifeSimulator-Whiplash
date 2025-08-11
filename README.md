@@ -34,10 +34,9 @@ Whiplash challenges players to:
 
 ## Sample Game Session
 **********************
-Health: 75
-Mood: 60
-Money: 1200
-Skill: 85
-**********************
-Current Status: 70
+- Health: 75
+- Mood: 60
+- Money: 1200
+- Skill: 85
+## Current Status: 70
 **********************
